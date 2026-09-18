@@ -4,10 +4,16 @@
 	"version": "2.0.1",
 	"author": "ASingleFaith and xsSplater",
 	"homepage": "https://www.nexusmods.com/warhammer40kdarktide/mods/730",
-	"source": "",
+	"source": "https://github.com/xsSplater/Darktide-Accurate-Curio-Names",
 	"funding": {
 		"boosty": "https://boosty.to/xssplater",
 		"donationalerts": "https://www.donationalerts.com/r/xssplater"
+	},
+	"nexusId": "730",
+	"dependencies": {
+		"required": [],
+		"self_after": [],
+		"self_before": []
 	},
 	"localization": {
 		"de": {
