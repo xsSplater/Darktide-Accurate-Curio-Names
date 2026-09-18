@@ -1,0 +1,58 @@
+{
+	"name": "Accurate Curio Names",
+	"description": "Changes the name of every curio to its blessing, optionally with perks. Respects other mod's custom names.",
+	"version": "2.0.0",
+	"author": "xsSplater",
+	"homepage": "https://www.nexusmods.com/warhammer40kdarktide/mods/730",
+	"source": "",
+	"funding": {
+		"boosty": "https://boosty.to/xssplater",
+		"donationalerts": "https://www.donationalerts.com/r/xssplater"
+	},
+	"localization": {
+		"de": {
+			"name": "Präzise Kuriositätennamen",
+			"description": "Ändert den Namen jedes Kuriosums in seinen Segen, optional mit Boni. Beachtet benutzerdefinierte Namen anderer Mods."
+		},
+		"es": {
+			"name": "Nombres precisos de curiosidades",
+			"description": "Cambia el nombre de cada curiosidad por su bendición, opcionalmente con ventajas. Respeta los nombres personalizados de otros mods."
+		},
+		"fr": {
+			"name": "Noms précis des curiosités",
+			"description": "Change le nom de chaque curiosité en sa bénédiction, éventuellement avec des avantages. Respecte les noms personnalisés des autres mods."
+		},
+		"it": {
+			"name": "Nomi accurati delle curiosità",
+			"description": "Cambia il nome di ogni curiosità nella sua benedizione, opzionalmente con i perk. Rispetta i nomi personalizzati di altre mod."
+		},
+		"ja": {
+			"name": "正確なキュリオ名",
+			"description": "すべてのキュリオの名前を祝福に変更し、オプションでパークも追加します。他のMODのカスタム名を尊重します。"
+		},
+		"ko": {
+			"name": "정확한 큐리오 이름",
+			"description": "모든 큐리오의 이름을 축복으로 변경하며, 옵션으로 특전을 포함합니다. 다른 모드의 사용자 정의 이름을 존중합니다."
+		},
+		"pl": {
+			"name": "Precyzyjne nazwy reliktów",
+			"description": "Zmienia nazwę każdego reliktu na jego błogosławieństwo, opcjonalnie z dodatkami. Szanuje niestandardowe nazwy innych modów."
+		},
+		"pt-br": {
+			"name": "Nomes precisos de curiosidades",
+			"description": "Altera o nome de cada curiosidade para sua bênção, opcionalmente com vantagens. Respeita nomes personalizados de outros mods."
+		},
+		"ru": {
+			"name": "Точные названия реликвий",
+			"description": "Accurate Curio Names - Изменяет название каждой реликвии на её благословение, опционально с перками. Уважает пользовательские названия других модов."
+		},
+		"zh-cn": {
+			"name": "精确圣物名称",
+			"description": "将每个圣物的名称更改为其祝福，可选包含特长。尊重其他模组的自定义名称。"
+		},
+		"zh-tw": {
+			"name": "精確聖物名稱",
+			"description": "將每個聖物的名稱更改為其祝福，可選包含特長。尊重其他模組的自定義名稱。"
+		}
+	}
+}
