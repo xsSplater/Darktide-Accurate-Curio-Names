@@ -1,8 +1,8 @@
 {
 	"name": "Accurate Curio Names",
 	"description": "Changes the name of every curio to its blessing, optionally with perks. Respects other mod's custom names.",
-	"version": "2.0.0",
-	"author": "xsSplater",
+	"version": "2.0.1",
+	"author": "ASingleFaith and xsSplater",
 	"homepage": "https://www.nexusmods.com/warhammer40kdarktide/mods/730",
 	"source": "",
 	"funding": {
